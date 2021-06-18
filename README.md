@@ -6,7 +6,7 @@ This is a Project Management System for an engineering firm called Poised that a
 
 It is capable of adding multiple projects and contacts. Each new project has contacts and can be edited after creation. All projects can be tracked with reports and also be finalised with an invoice generated if there is still an outstanding balance owed. 
 
-It is built in Java and incorporates OOP principles and uses external text files.
+It is built in Java and incorporates OOP principles and uses external text files. I also used JavaDoc.
 
 ## Contributors
 No contributions at this time.
